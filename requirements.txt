@@ -1,0 +1,11 @@
+# Lito-Logger Application
+
+This is a project for managing lithology data.
+
+## Requirements
+
+- flask
+- sqlalchemy
+- pandas
+- matplotlib
+- tk
